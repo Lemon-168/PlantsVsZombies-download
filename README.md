@@ -10,3 +10,4 @@ user1.dat : game save
 users.dat : just your game name in PVZ
 
 关于兼容性的设置👇
+![gameshow](兼容性.png)
